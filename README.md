@@ -1,8 +1,5 @@
-- 👋 Hi, my name is Ryan Garren and I live in Thornton, Colorado.
-- 👀 I’m interested in becoming a part of a positive and engaging dev team.
-- 🌱 I’m currently learning PERN full-stack through the DevMountain Web Dev Bootcamp.
-- 💞️ I’m looking to collaborate on anything that I can help bring my ideas and energy to the web in a positive way.
-- 📫 How to reach me:  Email is rryangarren@gmail.com   Cellphone is (720)220-0006 
+Life is precious.  We are all equal and on the same team.  We should embrace our differences and be there for each other.  I'm a Dad.  I'm a husband.  I'm a vegan.  I don't drink alcohol or do drugs other than some caffeine to keep my energy up sometimes.  I'm not religious.  I enjoy playing ice hockey and golf.  We should be accepting of our different beliefs and interests.  I'm thankful for everything that everyone does to make my life the way it is.  I believe the internet is such a powerful tool that can help our society.  I'm trying to find someone that considers themself a leader and is part of an organization that is trying to help our society where I can add value through my software engineering skills, creativity, and positive attitude. 
+My email is rryangarren@gmail.com and cellphone number is (720)220-0006 
 
 <!---
 RRG38/RRG38 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
