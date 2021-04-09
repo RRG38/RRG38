@@ -1,5 +1,5 @@
 My life is all about being Positive, Energetic, Outgoing, and Consistent.
-● Full-stack Web Development
+● Full-stack Web Developer
 ● JavaScript 
 ● React
 ● PostgreSQL
