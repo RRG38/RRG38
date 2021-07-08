@@ -1,9 +1,4 @@
-Full-Stack Web Developer
-● JavaScript 
-● React
-● PostgreSQL
-● Express
-● NodeJS
+PERN Full-Stack Web Developer
 
 <!---
 RRG38/RRG38 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
